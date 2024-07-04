@@ -1,0 +1,3 @@
+dynamic nullJson(s) {
+  return {};
+}
